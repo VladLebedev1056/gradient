@@ -6,7 +6,7 @@
     border: 5px solid red;
     width: 800px;
     height: 200px;
-    background-image: linear-gradient( red, blue)
+    background-image: radial-gradient( rgb(255, 242, 0), rgb(2, 90, 11))
     }
 
 .text{
